@@ -1,0 +1,59 @@
+if ( a > 10 )
+	print (10);
+else {
+}
+
+class X{
+public string a;
+
+public X(){
+read A;
+print A+2;
+}
+
+}
+
+
+public string a;
+private b;
+A.B();
+if(A==B AND B==D OR A==C)
+a++
+b--
+
+read A
+read B
+id=A-D-A+D
+print s
+print s*2
+
+[eof]:[openfile]{
+int close()[closefile]
+{
+this.trans(closefile);
+}
+
+
+
+
+[openfile]{
+string filedesc()[closefile]{}
+}
+
+
+[openfile]{
+int a=new a();
+string filedesc()[closefile|eof]{}
+}
+
+
+
+[eof]:[openfile]
+{
+public string close()[closefile]
+{
+this.trans(closefile);
+}
+
+
+}

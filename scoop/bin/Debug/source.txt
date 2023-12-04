@@ -1,0 +1,10 @@
+[state(open,close)]
+class File{
+ public int filepath;
+ statebinding{open:(filepath!=0)}
+ public int X(){
+ read(a);
+ print a;
+
+}
+}

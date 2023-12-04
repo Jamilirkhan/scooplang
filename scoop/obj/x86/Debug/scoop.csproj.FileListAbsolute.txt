@@ -1,0 +1,18 @@
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop - Copy\scoop\bin\Debug\scoop.exe.config
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop - Copy\scoop\obj\x86\Debug\scoop.exe
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop - Copy\scoop\obj\x86\Debug\scoop.pdb
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop - Copy\scoop\bin\Debug\scoop.exe
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop - Copy\scoop\bin\Debug\scoop.pdb
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop - Copy\scoop\obj\x86\Debug\scoop.csprojResolveAssemblyReference.cache
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop-\scoop\bin\Debug\scoop.exe.config
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop-\scoop\bin\Debug\scoop.exe
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop-\scoop\bin\Debug\scoop.pdb
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop-\scoop\obj\x86\Debug\scoop.csprojResolveAssemblyReference.cache
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop-\scoop\obj\x86\Debug\scoop.exe
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop-\scoop\obj\x86\Debug\scoop.pdb
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop\scoop\bin\Debug\scoop.exe.config
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop\scoop\bin\Debug\scoop.exe
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop\scoop\bin\Debug\scoop.pdb
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop\scoop\obj\x86\Debug\scoop.csprojResolveAssemblyReference.cache
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop\scoop\obj\x86\Debug\scoop.exe
+C:\Users\JAHMED\Documents\Visual Studio 2010\Projects\scoop\scoop\obj\x86\Debug\scoop.pdb
