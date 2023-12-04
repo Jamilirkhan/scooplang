@@ -1,0 +1,34 @@
+[state(openfile,closefile,eof)]
+class File{
+public int j;
+
+statebinding{openfile:(j>=10 AND j<=20)}
+
+[openfile]
+ {
+
+  int a;
+  string close()[closefile]
+  {
+    print 2;
+  }
+  string readfile()[openfile|eof]
+  {
+    if(a>2)
+    {
+      read(a);
+    }
+  }
+
+ }
+
+[eof]:[openfile]
+ {
+  string close()[closefile]
+  {
+    this.trans(closefile);
+  }
+
+ }
+
+}

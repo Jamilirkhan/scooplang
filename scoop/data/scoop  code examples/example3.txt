@@ -1,0 +1,13 @@
+[state(open,close)]
+class File{
+ public string a,b,c;
+ public int X(){
+  public string a;
+  read(a);
+ }
+}
+class Y{
+private string d;
+}
+
+
